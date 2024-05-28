@@ -1,8 +1,8 @@
 ## 启动教程
 
 - 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-
-安装包在视频详情中已提供。
+- 项目录屏：https://www.bilibili.com/video/BV1rw411t7kf
+- 安装包在视频详情中已提供。
 
 ## 项目简介
 
